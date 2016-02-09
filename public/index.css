@@ -21,7 +21,13 @@
 
 }
 
+.jumbotron img {
+  margin-top: 40px;
+}
 
+.jumbotron p {
+  text-align: center;
+}
 
 .nav li {
   display: inline;
@@ -56,6 +62,10 @@ ul.pull-left {
   font-weight: bold;
 }
 
+.jumbotron h4 {
+  color: #00f;
+}
+
 .jumbotron p {
   font-size: 20px;
   color: #fff;
@@ -83,6 +93,7 @@ ul.pull-left {
 .Projects {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 30px;
 }
 
 .Projects h2 {
