@@ -1,0 +1,104 @@
+.nav {
+  line-height: 3;
+  width: 100%;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  height: 200px;
+}
+
+#navi.container {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+
+}
+
+
+
+.nav li {
+  display: inline;
+}
+
+ul.pull-left {
+  padding-left: 0px;
+}
+
+.pull-left a {
+  padding-left: 0px;
+}
+
+.jumbotron {
+  background-image:url("https://pixabay.com/static/uploads/photo/2015/03/30/14/15/coding-699395_960_720.jpg");
+  height: 600px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.col-md-4 img{
+  height: 250px;
+  width: 360px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.Projects {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.Projects h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.Projects p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.thumbnail {
+  height: 250px;
+  width: 360px;
+  margin: 0px, 0px, 0px, 0px;
+  padding: 0px, 0px, 0px, 0px;
+  background-size: cover;
+}
